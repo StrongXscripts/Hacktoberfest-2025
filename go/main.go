@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 	"os"
@@ -80,7 +80,7 @@ func (client *GitHubClient) FetchContributors(owner, repo string) ([]GitHubUser,
 		return nil, fmt.Errorf("API request failed with status: %d", resp.StatusCode)
 	}
 	
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, fmt.Errorf("reading response: %w", err)
 	}
@@ -116,7 +116,7 @@ func (client *GitHubClient) FetchPullRequests(owner, repo string) ([]PullRequest
 		return nil, fmt.Errorf("API request failed with status: %d", resp.StatusCode)
 	}
 	
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := io.ReadAll(resp.Body)
 	if err != nil {
 		return nil, fmt.Errorf("reading response: %w", err)
 	}
@@ -183,7 +183,7 @@ func SaveStatsToFile(stats *HacktoberfestStats, filename string) error {
 		return fmt.Errorf("marshaling stats: %w", err)
 	}
 	
-	if err := ioutil.WriteFile(filename, data, 0644); err != nil {
+	if err := os.WriteFile(filename, data, 0644); err != nil {
 		return fmt.Errorf("writing file: %w", err)
 	}
 	
